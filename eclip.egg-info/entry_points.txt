@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        eclip=eclip_cli.cli:cli
+    

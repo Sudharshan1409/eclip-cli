@@ -1,0 +1,8 @@
+setup.py
+eclip.egg-info/PKG-INFO
+eclip.egg-info/SOURCES.txt
+eclip.egg-info/dependency_links.txt
+eclip.egg-info/entry_points.txt
+eclip.egg-info/requires.txt
+eclip.egg-info/top_level.txt
+eclip_cli/cli.py
