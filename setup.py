@@ -21,5 +21,3 @@ setup (
     ''',
 )
 
-# new changes
-
